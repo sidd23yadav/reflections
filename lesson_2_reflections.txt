@@ -2,3 +2,5 @@ What happens when you initialize a repository? why do you need to do it?
 It gets created lol. We need beacuse we need it.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 usless time eeastage to asnawe athere sa daoh 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+they are usefull since they are shit
