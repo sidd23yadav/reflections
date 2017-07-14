@@ -1,2 +1,4 @@
 When would you want to create a new repository rather than keeping all your work local?
 Answer-After writing some substantial amount of correct and working code.
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Answer to this is subjective. If i am working on some project where i am consantly updating and testing code, then i would not prefer to do the above before a milestone is reached and vice-versa
